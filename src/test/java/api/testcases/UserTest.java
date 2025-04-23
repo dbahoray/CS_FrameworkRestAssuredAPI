@@ -55,7 +55,7 @@ public class UserTest {
 		response.then().log().all();
 		Assert.assertEquals(response.getStatusCode(), 200);
 		
-		logger.info("Get User executed");
+		logger.info("Get User executed. Modified for Jenkins Test.");
 		
 	}
 	

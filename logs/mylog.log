@@ -6,3 +6,7 @@
 [INFO ] 2025-04-23 10:49:06.601 [main] RestAssuredAutomationFramework - Get User executed
 [INFO ] 2025-04-23 10:49:08.979 [main] RestAssuredAutomationFramework - Updated User executed
 [INFO ] 2025-04-23 10:49:10.117 [main] RestAssuredAutomationFramework - Delete User executed
+[INFO ] 2025-04-23 15:03:04.860 [main] RestAssuredAutomationFramework - Create User executed
+[INFO ] 2025-04-23 15:03:06.050 [main] RestAssuredAutomationFramework - Get User executed
+[INFO ] 2025-04-23 15:03:08.351 [main] RestAssuredAutomationFramework - Updated User executed
+[INFO ] 2025-04-23 15:03:09.495 [main] RestAssuredAutomationFramework - Delete User executed

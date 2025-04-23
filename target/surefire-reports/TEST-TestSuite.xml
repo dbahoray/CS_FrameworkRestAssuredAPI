@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="11.109" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="10.916" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Dev\AppData\Local\Temp\surefire1159661482252136202\surefirebooter-20250423104858942_3.jar C:\Users\Dev\AppData\Local\Temp\surefire1159661482252136202 2025-04-23T10-48-58_718-jvmRun1 surefire-20250423104858942_1tmp surefire_0-20250423104858942_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Dev\AppData\Local\Temp\surefire17931757589450045705\surefirebooter-20250423150258423_3.jar C:\Users\Dev\AppData\Local\Temp\surefire17931757589450045705 2025-04-23T15-02-58_215-jvmRun1 surefire-20250423150258423_1tmp surefire_0-20250423150258423_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Dev\eclipse-workspace\RestAssuredAutomationFramework\target\test-classes;C:\Users\Dev\eclipse-workspace\RestAssuredAutomationFramework\target\classes;C:\Users\Dev\.m2\repository\io\rest-assured\rest-assured\5.5.1\rest-assured-5.5.1.jar;C:\Users\Dev\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Dev\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Dev\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Dev\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Dev\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Dev\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Dev\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Dev\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Dev\.m2\repository\io\rest-assured\json-path\5.5.1\json-path-5.5.1.jar;C:\Users\Dev\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Dev\.m2\repository\io\rest-assured\rest-assured-common\5.5.1\rest-assured-common-5.5.1.jar;C:\Users\Dev\.m2\repository\io\rest-assured\xml-path\5.5.1\xml-path-5.5.1.jar;C:\Users\Dev\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\Dev\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\Dev\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\Dev\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\Dev\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\Dev\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\Dev\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\Dev\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar;C:\Users\Dev\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar;C:\Users\Dev\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\Dev\.m2\repository\com\google\guava\guava\28.2-android\guava-28.2-android.jar;C:\Users\Dev\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Dev\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Dev\.m2\repository\org\checkerframework\checker-compat-qual\2.5.5\checker-compat-qual-2.5.5.jar;C:\Users\Dev\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Dev\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\Dev\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\Dev\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\Dev\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\Dev\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\Dev\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\Dev\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Dev\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Dev\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\Dev\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\Dev\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\Dev\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\Dev\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\Dev\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Dev\.m2\repository\org\apache\poi\poi\5.4.0\poi-5.4.0.jar;C:\Users\Dev\.m2\repository\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;C:\Users\Dev\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Dev\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Dev\.m2\repository\commons-io\commons-io\2.18.0\commons-io-2.18.0.jar;C:\Users\Dev\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Dev\.m2\repository\org\apache\poi\poi-ooxml\5.4.0\poi-ooxml-5.4.0.jar;C:\Users\Dev\.m2\repository\org\apache\poi\poi-ooxml-lite\5.4.0\poi-ooxml-lite-5.4.0.jar;C:\Users\Dev\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\Dev\.m2\repository\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;C:\Users\Dev\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Dev\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.3\log4j-core-2.24.3.jar;C:\Users\Dev\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\Dev\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Dev\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Dev\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Dev\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Dev\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Dev\AppData\Local\Temp\surefire1159661482252136202\surefirebooter-20250423104858942_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Dev\AppData\Local\Temp\surefire17931757589450045705\surefirebooter-20250423150258423_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
@@ -58,11 +58,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testCreateUser" classname="api.testcases.UserTest" time="3.752">
+  <testcase name="testCreateUser" classname="api.testcases.UserTest" time="3.756">
     <system-out><![CDATA[On Start method invoked....
 Name of test method started: testCreateUser
 HTTP/1.1 200 OK
-Date: Wed, 23 Apr 2025 05:19:05 GMT
+Date: Wed, 23 Apr 2025 09:33:04 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -76,7 +76,7 @@ Server: Jetty(9.2.9.v20150224)
     "type": "unknown",
     "message": "1634387050"
 }
-[INFO ] 2025-04-23 10:49:05.307 [main] RestAssuredAutomationFramework - Create User executed
+[INFO ] 2025-04-23 15:03:04.860 [main] RestAssuredAutomationFramework - Create User executed
 Name of test method sucessfully executed: testCreateUser
 ]]></system-out>
     <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
@@ -84,11 +84,11 @@ SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testGetUserData" classname="api.testcases.UserTest" time="1.273">
+  <testcase name="testGetUserData" classname="api.testcases.UserTest" time="1.178">
     <system-out><![CDATA[Name of test method started: testGetUserData
 Get User Data
 HTTP/1.1 200 OK
-Date: Wed, 23 Apr 2025 05:19:06 GMT
+Date: Wed, 23 Apr 2025 09:33:06 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -99,22 +99,22 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 1634387050,
-    "username": "gerald.rice",
-    "firstName": "Marceline",
-    "lastName": "Hoeger",
-    "email": "elda.kihn@example.com",
-    "password": "yt4nqvtgg",
-    "phone": "094.438.4292",
+    "username": "isaias.koch",
+    "firstName": "Kirk",
+    "lastName": "Emard",
+    "email": "delmar.harris@example.com",
+    "password": "91vscbh0",
+    "phone": "723-644-9448",
     "userStatus": 0
 }
-[INFO ] 2025-04-23 10:49:06.601 [main] RestAssuredAutomationFramework - Get User executed
+[INFO ] 2025-04-23 15:03:06.050 [main] RestAssuredAutomationFramework - Get User executed
 Name of test method sucessfully executed: testGetUserData
 ]]></system-out>
   </testcase>
-  <testcase name="testUpdateUser" classname="api.testcases.UserTest" time="2.382">
+  <testcase name="testUpdateUser" classname="api.testcases.UserTest" time="2.293">
     <system-out><![CDATA[Name of test method started: testUpdateUser
 HTTP/1.1 200 OK
-Date: Wed, 23 Apr 2025 05:19:07 GMT
+Date: Wed, 23 Apr 2025 09:33:07 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -129,8 +129,8 @@ Server: Jetty(9.2.9.v20150224)
     "message": "1634387050"
 }
 Updated User Data
-HTTP/1.1 404 Not Found
-Date: Wed, 23 Apr 2025 05:19:08 GMT
+HTTP/1.1 200 OK
+Date: Wed, 23 Apr 2025 09:33:08 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -140,19 +140,24 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "code": 1,
-    "type": "error",
-    "message": "User not found"
+    "id": 1634387050,
+    "username": "isaias.koch",
+    "firstName": "Kirk",
+    "lastName": "Emard",
+    "email": "delmar.harris@example.com",
+    "password": "91vscbh0",
+    "phone": "723-644-9448",
+    "userStatus": 0
 }
-[INFO ] 2025-04-23 10:49:08.979 [main] RestAssuredAutomationFramework - Updated User executed
+[INFO ] 2025-04-23 15:03:08.351 [main] RestAssuredAutomationFramework - Updated User executed
 Name of test method sucessfully executed: testUpdateUser
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteUser" classname="api.testcases.UserTest" time="1.137">
+  <testcase name="testDeleteUser" classname="api.testcases.UserTest" time="1.149">
     <system-out><![CDATA[Name of test method started: testDeleteUser
 Deleted User Data
 HTTP/1.1 200 OK
-Date: Wed, 23 Apr 2025 05:19:10 GMT
+Date: Wed, 23 Apr 2025 09:33:09 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -164,9 +169,9 @@ Server: Jetty(9.2.9.v20150224)
 {
     "code": 200,
     "type": "unknown",
-    "message": "gerald.rice"
+    "message": "isaias.koch"
 }
-[INFO ] 2025-04-23 10:49:10.117 [main] RestAssuredAutomationFramework - Delete User executed
+[INFO ] 2025-04-23 15:03:09.495 [main] RestAssuredAutomationFramework - Delete User executed
 Name of test method sucessfully executed: testDeleteUser
 ]]></system-out>
   </testcase>
